@@ -1,13 +1,21 @@
 {
-  "bookmarks": [],
-  "groups": [
+  "bookmarks": [
     {
-      "id": "default",
-      "name": "默认分组",
-      "color": "#667eea",
-      "createdAt": "2025-09-30T08:31:00.604Z"
+      "url": "https://www.doubao.com/chat/?channel=itab2&source=hw_db_itab&type=tab&theme=wangzjh",
+      "title": "豆包 - 字节跳动旗下 AI 智能助手",
+      "timestamp": "2025-09-30T08:31:21.406Z",
+      "favicon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon.png",
+      "group": "default"
     }
   ],
-  "syncTime": "2025-09-30T08:31:09.320Z",
+  "groups": [
+    {
+      "color": "#667eea",
+      "createdAt": "2025-09-30T08:31:00.604Z",
+      "id": "default",
+      "name": "默认分组"
+    }
+  ],
+  "syncTime": "2025-09-30T08:31:21.412Z",
   "version": "1.0"
 }
