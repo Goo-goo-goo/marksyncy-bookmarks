@@ -2,12 +2,12 @@
   "bookmarks": [],
   "groups": [
     {
-      "color": "#667eea",
-      "createdAt": "2025-09-30T08:26:03.131Z",
       "id": "default",
-      "name": "默认分组"
+      "name": "默认分组",
+      "color": "#667eea",
+      "createdAt": "2025-09-30T08:31:00.604Z"
     }
   ],
-  "syncTime": "2025-09-30T08:26:46.920Z",
+  "syncTime": "2025-09-30T08:31:09.320Z",
   "version": "1.0"
 }
