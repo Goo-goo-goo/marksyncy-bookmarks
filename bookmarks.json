@@ -1,10 +1,17 @@
 {
   "bookmarks": [
     {
-      "url": "https://www.doubao.com/chat/?channel=itab2&source=hw_db_itab&type=tab&theme=wangzjh",
-      "title": "豆包 - 字节跳动旗下 AI 智能助手",
-      "timestamp": "2025-09-30T08:31:21.406Z",
       "favicon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon.png",
+      "group": "default",
+      "timestamp": "2025-09-30T08:31:21.406Z",
+      "title": "豆包 - 字节跳动旗下 AI 智能助手",
+      "url": "https://www.doubao.com/chat/?channel=itab2&source=hw_db_itab&type=tab&theme=wangzjh"
+    },
+    {
+      "url": "https://www.bilibili.com/",
+      "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+      "timestamp": "2025-09-30T08:32:09.318Z",
+      "favicon": "https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico",
       "group": "default"
     }
   ],
@@ -16,6 +23,6 @@
       "name": "默认分组"
     }
   ],
-  "syncTime": "2025-09-30T08:31:21.412Z",
+  "syncTime": "2025-09-30T08:32:11.034Z",
   "version": "1.0"
 }
